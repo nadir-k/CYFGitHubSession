@@ -1,1 +1,3 @@
 LCD's test text file
+
+Ah, I forgot to add this line...
